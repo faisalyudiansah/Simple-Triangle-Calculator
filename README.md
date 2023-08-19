@@ -19,5 +19,5 @@ A calculator to calculate the area of ​​a triangle and the perimeter of a tr
 <br>
 
 ```bash
-  L = 1/2 x a x t
+  K = s1 + s2 + s3
 ```

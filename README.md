@@ -7,7 +7,11 @@ Features of the calculator: :
 ## Abstract
 
 A calculator to calculate the area of ​​a triangle and the perimeter of a triangle. A triangle is a flat shape bounded by three sides and has three angles.
-
+<br>
+## PC / Laptop Version
+![red](https://github.com/faisalyudiansah/Simple-Triangle-Calculator/assets/142356615/97539b2a-862a-4daf-9a5e-c5ef0af7dd20)
+<br>
+<br>
 <li>Area of ​​a triangle</li>
 <br>
 

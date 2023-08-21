@@ -21,3 +21,6 @@ A calculator to calculate the area of ​​a triangle and the perimeter of a tr
 ```bash
   K = s1 + s2 + s3
 ```
+<br>
+<br>
+@Muhammad Faisal Yudiansah
